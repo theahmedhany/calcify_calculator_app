@@ -38,17 +38,14 @@ https://github.com/user-attachments/assets/fb59c307-4d94-4e42-8509-88e3c423a445
 </h3>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/theahmedhany/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="52" height="40" alt="linkedin logo"/>
-  </a>
   <a href="mailto:a7medhanyshokry@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail&theme=light" width="52" height="40" alt="gmail logo"/> 
   </a>
+  <a href="https://www.linkedin.com/in/theahmedhany/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="52" height="40" alt="linkedin logo"/>
+  </a>
   <a href="https://x.com/theahmedhany" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter&theme=dark" width="52" height="40" alt="twitter logo"/>
-  </a>
-  <a href="https://github.com/theahmedhany" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github&theme=dark" width="52" height="40" alt="GitHub logo"/>
   </a>
 </div>
 
