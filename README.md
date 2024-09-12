@@ -29,7 +29,7 @@ A new Flutter Application.
 https://github.com/user-attachments/assets/fb59c307-4d94-4e42-8509-88e3c423a445
 
 
-#### Explore the application post on LinkedIn: <a target="_blank" href="**********"> Click Here. </a>
+#### Explore the application post on LinkedIn: <a target="_blank" href="https://www.linkedin.com/posts/theahmedhany_cognoriseinfotech-internship-dart-activity-7239899472560898048-XwtJ?utm_source=share&utm_medium=member_desktop"> Click Here. </a>
 
 -----
 
